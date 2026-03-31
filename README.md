@@ -6,7 +6,8 @@ To cite the survey, please use the following bib item:
 @article{verberne2026domainspecific,  
   authors = {Verberne, Suzan and Piroi, Florina and Hanbury, Allan},  
   title = {{Domain-specific Information Retrieval}},  
-  journal = {{Foundations and Trends in Information Retrieval (FnTIR)}},  
+  journal = {{Foundations and Trends in Information Retrieval (FnTIR)}},
+  issue = {{FTINR-09-2025-0088}},
   year = {2026},  
 }
  ```
